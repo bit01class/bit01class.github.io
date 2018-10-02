@@ -2,9 +2,9 @@
 
 ![](http://bitcamp.co.kr/slider/5.png)
 
-- JAVA LECTURE 
+- [JAVA LECTURE](./java/) 
 
-    Link: [Java](./java/)
+    Link: [source](https://github.com/bit01class/java2018)
     
 - DB LECTURE
 
