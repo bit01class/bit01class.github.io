@@ -1,4 +1,4 @@
-# ![Alt text](http://bitcamp.co.kr/slider/5.png)
+# ![](http://bitcamp.co.kr/slider/5.png)
 
 - JAVA LECTURE 
 
