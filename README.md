@@ -1,6 +1,4 @@
-# bit01class.github.io
-
-![Alt text](http://bitcamp.co.kr/slider/5.png)
+# ![Alt text](http://bitcamp.co.kr/slider/5.png)
 
 - JAVA LECTURE 
 
