@@ -1,4 +1,4 @@
-# bitcamp
+# bit01class.github.io
 
 ![](http://bitcamp.co.kr/slider/5.png)
 
