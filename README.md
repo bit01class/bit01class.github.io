@@ -1,3 +1,6 @@
 # bit01class.github.io
 
-    (./java/)[./java/]
+    Link: [Java][javalink]
+    [javalink]: ./java/ "Go java"
+
+    
