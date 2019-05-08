@@ -9,19 +9,19 @@
 
 3. vi /etc/inittab 
 
-  * 0 : halt(종료)
+   * 0 : halt(종료)
 
-  * 1 : single mode(복구)
+   * 1 : single mode(복구)
 
-  * 2 : multi_user_mode(네트워크X) 
+   * 2 : multi_user_mode(네트워크X) 
 
-  * 3 : multi_user_mode(네트워크O) 
+   * 3 : multi_user_mode(네트워크O) 
 
-  * 4 : unused 사용하지 x 
+   * 4 : unused 사용하지 x 
 
-  * 5 : graphical_mode 
+   * 5 : graphical_mode 
 
-  * 6 : reboot(재시작)
+   * 6 : reboot(재시작)
 
 4. init <level>
 
