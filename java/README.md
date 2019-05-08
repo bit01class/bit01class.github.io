@@ -1,4 +1,4 @@
-# JAVA LECTURE
+## JAVA LECTURE
 
 ### Open JDK
 
